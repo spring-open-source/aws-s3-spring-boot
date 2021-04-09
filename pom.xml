@@ -15,7 +15,7 @@
 	<name>spring-boot-aws-s3</name>
 	<description>Spring Boot Application With AWS Simple Storage Service (S3)</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>15</java.version>
 		<spring-cloud.version>Hoxton.SR6</spring-cloud.version>
 		<testcontainers.version>1.15.1</testcontainers.version>
 	</properties>
